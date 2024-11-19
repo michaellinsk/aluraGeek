@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1fd3",
+      "title": "Nintendo",
+      "price": 232,
+      "image": "https://cdn.mkplace.com.br/image/upload/v1714984041/seller-images/iv5kxuqkmaklzfwg3aty.png"
+    },
+    {
+      "id": "1a82",
+      "title": " PS5 DUAL",
+      "price": 1.282,
+      "image": "https://images.tcdn.com.br/img/img_prod/827530/controle_joystick_wireless_sony_ps5_dual_sense_branco_1021_1_0d37d74362cd7b2b39b419c0c39d00de.jpg"
+    },
+    {
+      "id": "736a",
+      "title": "Mario Red Edition",
+      "price": 3221,
+      "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/My%20Nintendo%20Store/EN-US/Hardware/nintendo-switch-oled-model-mario-red-edition-112872/112872-nintendo-switch-oled-model-mario-red-edition-front-angle-1200x675"
+    }
+  ]
+}
